@@ -11,7 +11,7 @@
 **[Try the live app →](https://malaria-scope.streamlit.app/)**
 
 ![MalariaScope demo — original vs detected](images/demo.png)
-*Original field (left) vs. YOLO detection output (right): 22 unparasitized, 2 parasitized red blood cells.*
+*Original field (left) vs. YOLO detection output (right): 66 unparasitized, 1 parasitized red blood cells.*
 
 ---
 
