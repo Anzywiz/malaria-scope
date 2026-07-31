@@ -2,3 +2,4 @@ python-multipart
 ultralytics
 numpy
 streamlit
+opencv-python-headless
