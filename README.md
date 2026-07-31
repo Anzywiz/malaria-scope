@@ -72,6 +72,10 @@ malaria-scope/
 
 The app runs inference in-process (no separate API service) — a deliberate simplification for single-command deployment on Streamlit Community Cloud, trading horizontal scalability for a much simpler deploy story appropriate for a demo/portfolio project.
 
+## Training
+
+Full training and EDA notebook: [`notebooks/training.ipynb`](notebooks/training.ipynb)
+
 ## Running Locally
 
 ```bash
@@ -98,7 +102,7 @@ The app expects `best.pt` in the project root (already included in the repo) —
 ## Author
 
 **Ifeanyi Muotoe** (Anzywiz)
-B.Pharm, University of Lagos · Data Engineer & ML Enthusiast
+B.Pharm, University of Lagos · ML & Data Engineer 
 
 [GitHub](https://github.com/Anzywiz) · [LinkedIn](https://linkedin.com/in/ifeanyimuotoe) · [Portfolio](https://anzywiz.github.io)
 
